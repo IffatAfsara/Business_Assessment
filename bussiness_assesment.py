@@ -91,7 +91,7 @@ st.bar_chart(filtered_data)
 
 from pathlib import Path  # Python Standard Library
 import pandas as pd  # pip install pandas openpyxl
-!pip install pyecharts
+#!pip install pyecharts
 from pyecharts import options as opts
 from pyecharts.charts import Bar, Calendar, Tab
 
